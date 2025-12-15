@@ -1,0 +1,33 @@
+
+// 2110 --> LeetCode Daily Problem (15 - 12 - 25)
+// Problem on Two Pointers
+
+class Solution {
+public:
+    long long getDescentPeriods(vector<int>& prices) {
+        long long sum = prices.size();
+        int i = 0;
+        int j = i + 1;
+        long long cnt = 1;
+        long long varr = 1;
+        while(i < prices.size() && j < prices.size()){
+            if(prices[j] + varr == prices[i]){
+                cnt++;
+                j++;
+                if(j >= prices.size()){
+                    sum += cnt * (cnt - 1) / 2;
+                    break;
+                }
+                varr++;
+            }
+            else{
+                sum += cnt * (cnt - 1) / 2;
+                cnt = 1;
+                varr = 1;
+                i = j;
+                j++;
+            }
+        }
+        return sum;
+    }
+};
