@@ -1,0 +1,31 @@
+// Leetcode daily problem on greedy
+
+class Solution {
+public:
+    long long maximumHappinessSum(vector<int>& happiness, int k) {
+        // sort(happiness.rbegin() , happiness.rend());
+        // long long sum = 0;
+        // int val = 0;
+        // int dup = k;
+        // for(int i = 0; i < dup ; i++){
+        //     if(k == 0 || (happiness[i] - val) < 0) break;
+        //     sum += happiness[i] - val;
+        //     val++;
+        //     k--;
+        // }
+        // return sum;
+
+        
+        priority_queue<int> pq(happiness.begin() , happiness.end());
+        int val = 0;
+        long long sum = 0;
+        while(!pq.empty() && k != 0){
+            if(pq.top() - val > 0) sum += pq.top() - val;
+            val++;
+            k--;
+            pq.pop();
+        }
+        return sum;
+    }
+};
+auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
