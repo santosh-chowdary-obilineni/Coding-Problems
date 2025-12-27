@@ -1,0 +1,32 @@
+//Prefix sum approach -- 2483
+class Solution {
+public:
+    int bestClosingTime(string customers) {
+
+        vector<int> pre_y(customers.size() + 2);
+        vector<int> pre_n(customers.size() + 2);
+
+        for(int i = 0; i < customers.size(); i++){
+            if(customers[i] == 'Y') pre_y[i + 1] = 1;
+            else pre_n[i + 1] = 1;
+        }
+        //prefix summation
+        for(int i = 1;i < pre_y.size(); i++){
+            pre_y[i] += pre_y[i - 1] + pre_y[i];
+            pre_n[i] += pre_n[i - 1] + pre_n[i];
+        }
+
+        int n = pre_y.size() - 1;
+        int min = INT_MAX;
+        int sum = 0;
+        int ans = -1;
+        for(int i = 1; i < pre_y.size(); i++){
+            sum = pre_y[n] - pre_y[i - 1] + pre_n[i - 1];
+            if(sum < min){
+                min = sum;
+                ans = i - 1;
+            } 
+        }
+        return ans;
+    }
+};
