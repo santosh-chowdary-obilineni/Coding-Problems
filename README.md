@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 | [2105-watering-plants-ii](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/2105-watering-plants-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3238-find-the-number-of-winning-players) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0342-power-of-four) |
 ## Recursion
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3238-find-the-number-of-winning-players](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3238-find-the-number-of-winning-players) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
