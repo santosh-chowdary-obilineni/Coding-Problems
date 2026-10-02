@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
