@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
@@ -49,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
