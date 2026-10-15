@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0342-power-of-four) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-letter-case-permutation](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
