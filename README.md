@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0342-power-of-four) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0784-letter-case-permutation) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
