@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/0078-subsets) |
 | [2105-watering-plants-ii](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/2105-watering-plants-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/santosh-chowdary-obilineni/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
